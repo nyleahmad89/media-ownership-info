@@ -1,0 +1,150 @@
+{
+  "www.washingtonpost.com": {
+    "owner": "Jeff Bezos",
+    "bias": "Center-Right",
+    "photo": "bezos.avif",
+    "blurb": "Jeff Bezos told Washington Post journalists: 'We are going to be writing every day in support and defense of two pillars: personal liberties and free markets. We’ll cover other topics too of course, but viewpoints opposing those pillars will be left to be published by others.'"
+  },
+  "www.foxnews.com": {
+    "owner": "Fox Corporation",
+    "bias": "Right",
+    "photo": "foxnews.png",
+    "blurb": "Fox News is known for its conservative viewpoints and has faced criticism for its coverage of political events. Rupert Murdoch (40% shareholder) has been accused of using his media outlets to influence political outcomes. Learn more: https://www.theguardian.com/media/2023/oct/02/rupert-murdoch-fox-news-political-influence"
+  },
+  "www.cnn.com": {
+    "owner": "Warner Bros. Discovery",
+    "bias": "Center-Left",
+    "photo": "cnn.png",
+    "blurb": "Warner Bros. Discovery CEO David Zaslav said CNN is renewing its focus on journalism — signaling he wants the scandal-scarred, left-leaning network to eventually deliver straight news that also appeals to conservatives. Learn more: https://nypost.com/2022/07/06/cnn-owners-boss-david-zaslav-wants-network-for-republicans-democrats/"
+  },
+  "www.bbc.com": {
+    "owner": "BBC Trust",
+    "bias": "Neutral",
+    "photo": "bbc_trust.jpg"
+  },
+  "www.nytimes.com": {
+    "owner": "The New York Times Company",
+    "bias": "Left",
+    "photo": "nytimes.png"
+  },
+  "www.wsj.com": {
+    "owner": "News Corp",
+    "bias": "Right-Center",
+    "photo": "wsj.png"
+  },
+  "www.npr.org": {
+    "owner": "National Public Radio",
+    "bias": "Left-Center",
+    "photo": "npr.png"
+  },
+  "www.reuters.com": {
+    "owner": "Thomson Reuters",
+    "bias": "Neutral",
+    "photo": "reuters.png"
+  },
+  "www.aljazeera.com": {
+    "owner": "Al Jazeera Media Network",
+    "bias": "Left-Center",
+    "photo": "aljazeera.png"
+  },
+  "www.theguardian.com": {
+    "owner": "Scott Trust Limited",
+    "bias": "Left",
+    "photo": "guardian.png"
+  },
+  "www.forbes.com": {
+    "owner": "Integrated Whale Media Investments",
+    "bias": "Right-Center",
+    "photo": "forbes.png"
+  },
+  "www.bloomberg.com": {
+    "owner": "Bloomberg L.P.",
+    "bias": "Left-Center",
+    "photo": "bloomberg.png"
+  },
+  "www.apnews.com": {
+    "owner": "Associated Press",
+    "bias": "Neutral",
+    "photo": "apnews.png"
+  },
+  "www.usatoday.com": {
+    "owner": "Gannett",
+    "bias": "Center",
+    "photo": "usatoday.png"
+  },
+  "www.politico.com": {
+    "owner": "Axel Springer SE",
+    "bias": "Left-Center",
+    "photo": "politico.png"
+  },
+  "www.huffpost.com": {
+    "owner": "BuzzFeed, Inc.",
+    "bias": "Left",
+    "photo": "huffpost.png"
+  },
+  "www.vox.com": {
+    "owner": "Vox Media",
+    "bias": "Left",
+    "photo": "vox.png"
+  },
+  "www.thehill.com": {
+    "owner": "Capitol Hill Publishing Corp.",
+    "bias": "Center",
+    "photo": "thehill.png"
+  },
+  "www.cnbc.com": {
+    "owner": "NBCUniversal",
+    "bias": "Right-Center",
+    "photo": "cnbc.png"
+  },
+  "www.msnbc.com": {
+    "owner": "NBCUniversal",
+    "bias": "Left",
+    "photo": "msnbc.png"
+  },
+  "www.abcnews.go.com": {
+    "owner": "The Walt Disney Company",
+    "bias": "Left-Center",
+    "photo": "abcnews.png"
+  },
+  "www.cbsnews.com": {
+    "owner": "Paramount Global",
+    "bias": "Left-Center",
+    "photo": "cbsnews.png"
+  },
+  "www.nbcnews.com": {
+    "owner": "NBCUniversal",
+    "bias": "Left-Center",
+    "photo": "nbcnews.png"
+  },
+  "www.rt.com": {
+    "owner": "ANO TV-Novosti",
+    "bias": "Right",
+    "photo": "rt.png"
+  },
+  "www.breitbart.com": {
+    "owner": "Breitbart News Network",
+    "bias": "Right",
+    "photo": "breitbart.png"
+  },
+  "www.dailywire.com": {
+    "owner": "The Daily Wire",
+    "bias": "Right",
+    "photo": "dailywire.png"
+  },
+  "www.infowars.com": {
+    "owner": "Free Speech Systems LLC",
+    "bias": "Far-Right",
+    "photo": "infowars.png"
+  },
+  "www.democracynow.org": {
+    "owner": "Democracy Now! Productions",
+    "bias": "Left",
+    "photo": "democracynow.png"
+  },
+  "www.propublica.org": {
+    "owner": "ProPublica, Inc.",
+    "bias": "Left-Center",
+    "photo": "propublica.png"
+  }
+}
